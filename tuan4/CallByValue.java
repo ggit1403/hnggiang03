@@ -11,6 +11,7 @@ class Test {
         o.b /=2;
     }
    }
+   // test
    class CallByValue {
     public static void main(String[] args) {
     Test ob = new Test();
